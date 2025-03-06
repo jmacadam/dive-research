@@ -1,0 +1,66 @@
+Prompt: Create a detailed diving guide for the Great Barrier Reef, formatted similarly to the "Maldives Diving Seasonality & Conditions" and "Raja Ampat Diving Guide" and "Bali Diving Guide" documents. The purpose is to provide a clear, structured overview of the region’s diving conditions, seasonality, and top dive sites. The document should include the following sections, but I will ask you to create them one at a time starting with 
+Top Dive Sites & Best Seasons
+After that we will continue in the following order:
+Diving Seasonality & Safety Considerations. 
+Highlights section for Specific Marine Life or other attractions
+Diving Conditions by Month (Table)
+then we can do all of these sections at once:
+Where to Stay, Attractions & Activities, and Food & Dining
+and lastly considering all context, provide the TLDR
+
+Here is what each section should contain, but reference project files for existing examples:
+
+TLDR Summary
+A one-liner indicating the best month to dive and the least desirable month, eg "## TLDR: March ideal, avoid July"
+
+Section: Where to Stay:
+Provide a mix of accommodations, including major hotel chains (specifically Marriott and Hyatt if available), dive resorts, and unique boutique stays.
+Highlight options with house reefs for easy snorkeling or shore diving.
+Include considerations like proximity to dive sites, price range, and any relevant features (luxury, eco-friendly, etc.).
+
+Section: Attractions & Activities:
+Suggest non-diving activities such as snorkeling, hiking, cultural sites, and adventure tourism.
+Provide details on location, seasonal timing, and what makes each attraction unique.
+
+Section: Food & Dining:
+List notable restaurants and food experiences in the region.
+Prioritize vegetarian-friendly and seafood options.
+Include location details, any seasonal considerations, and price range insights.
+
+Section: Top Dive Sites & Best Seasons
+List the most notable dive sites, describing:
+Why Go: Unique highlights (e.g., specific marine life, reef formations, wrecks).
+Depth Range: Minimum and maximum dive depths.
+Best Season: The optimal time to dive there and any seasonality factors.
+
+Section: Diving Seasonality & Safety Considerations
+Currents & Safety: Identify the months with the strongest currents and their impact on diving (e.g., best for drift diving vs. easier conditions).
+Sea Conditions: Explain when seas are calm vs. rough (important for boat dives and liveaboards).
+Visibility: Outline the months with the best and worst visibility.
+Water Temperature: Provide a breakdown of temperature ranges by season and recommendations for wetsuit thickness.
+Weather & Rainfall: Describe the wet and dry seasons, including how they impact diving conditions.
+High vs. Low Season using above info to capture the essence of all of the above info for each
+
+Section: Highlights section for Specific Marine Life or other attractions
+Highlight key species (e.g., whale sharks, hammerhead sharks, manta rays) or attractions (wrecks, etc) and the best months to see them.
+Why those months are ideal (e.g., plankton blooms, migration patterns, dive conditions).
+List best locations for each species.
+Best via - how is best to dive this, i.e. by liveaboard, shore dive, boat (day trip) and any context for that
+
+Section: Diving Conditions by Month (Table)
+Include a structured table with (units: imperial and fahrenheit) summarizing:
+Month
+Air & Sea Temperature (F)
+Diving Season (Dry/Wet/Transition)
+Diving Highlights
+Rainfall & Rainy Days
+Other Notes (e.g., best for liveaboards, peak marine life activity)
+[OPTIONAL] Additional Notes
+Any region-specific diving considerations, local regulations, or special tips.
+Existing Information
+
+Here is any relevant information from previous notes or documents that should be incorporated into the new guide:
+
+We previously dove with Mike Ball on Spirit of Freedom from Cairns and it was excellent.
+--
+Please write the first section in canvas and then stop.

@@ -1,0 +1,171 @@
+Prompt: Create a detailed diving guide for Belize, formatted similarly to the other documents in this project's files. The purpose is to provide a clear, structured overview of the region’s diving conditions, seasonality, and top dive sites. The document should include the following sections, but I will ask you to create them one at a time starting with:
+Top Dive Sites & Best Seasons
+After that we will continue in the following order:
+Diving Seasonality & Safety Considerations. 
+Highlights section for Specific Marine Life or other attractions
+Diving Conditions by Month (Table)
+then we can do all of these sections at once:
+Where to Stay, Attractions & Activities, and Food & Dining
+followed by the Orientation section
+and lastly considering all context, provide the TLDR
+
+Here is what each section should contain, but reference project files for existing examples:
+
+TLDR Summary
+A one-liner indicating the best month to dive and the least desirable month, eg "## TLDR: March ideal, avoid July"
+
+Section: Orientation
+===draft supplied below. please review and edit only to ensure the prompt below is met===
+===begin prompt for Orientation section===
+Objective:
+Create an Orientation section that clearly breaks down key areas travelers should consider based on their interests (e.g., diving, luxury, culture). The structure should be adapted based on the nature of the destination—whether it is primarily a liveaboard location, a land-based destination, or a mix of both.
+
+General Structure:
+
+Start with an Overview:
+Provide a quick summary of how the destination is structured.
+Example: “Liveaboard itineraries in Raja Ampat are typically categorized into North, Central, and South, each offering distinct dive environments.”
+If both land and liveaboard options exist, outline common regions people stay in and the most frequent liveaboard routes.
+If it's only land-based, highlight regional differences and types of stays (dive lodges, resorts, budget accommodations).
+If it's primarily liveaboard-only, break it down into common routes and what each region offers.
+Break the destination into logical sections based on:
+
+Geography: (e.g., North, South, Central, or key islands)
+Diving & Travel Logistics: (e.g., best for liveaboards vs. land-based diving)
+Traveler Type Suitability: (luxury vs. budget, divers vs. general tourists)
+For each area, include:
+
+Why Go: The main appeal of this area.
+Best For: What type of travelers will enjoy it most.
+Notable Spots: Key attractions, dive sites, wildlife, or experiences.
+Drawbacks: Any cons or considerations (e.g., crowds, cost, remoteness).
+Destination-Specific Adjustments:
+
+Liveaboard-Only Destinations (e.g., Raja Ampat, some parts of the Maldives)
+Focus on common liveaboard routes and what each covers.
+Indicate trip length recommendations (e.g., "A 7-night trip covers Central Raja Ampat, while 9+ nights explore both Central & South").
+Address unique region-specific characteristics (e.g., “The South is better for macro lovers, while the Central region offers the best big fish action.”).
+Land-Based Diving & Multi-Region Destinations (e.g., Bali, Fiji)
+Highlight different stay options and where to base yourself for diving.
+Recommend best accommodations in each key area.
+Mention dive travel logistics (e.g., “If diving Nusa Penida, staying in Sanur is best.”).
+Hybrid Destinations (e.g., Maldives, Great Barrier Reef)
+Cover both resort-based diving and liveaboard itineraries.
+Indicate which regions are better for land-based stays vs. which are only accessible by boat.
+Recommend specific atolls or islands for different types of divers.
+Formatting Notes:
+
+Use bullet points for clarity.
+Ensure each region is easy to scan, balancing high-level takeaways with enough detail for planning.
+Example Adjustments Based on Destination:
+Maldives: Break into key atolls for resort-based stays vs. liveaboard routes.
+Bali: Cover land-based regional stays and dive safari strategies.
+Raja Ampat: Focus on liveaboard-only routes (North, Central, South).
+Great Barrier Reef: Cover liveaboard itineraries and land-based options (Cairns vs. islands).
+Fiji: Mix of land-based island stays (Taveuni, Beqa, Mamanucas) and liveaboard trips (Bligh Water).
+===end prompt for Orientation section===
+
+Section: Where to Stay:
+Provide a mix of accommodations, including major hotel chains (specifically Marriott and Hyatt if available), dive resorts, and unique boutique stays.
+Highlight options with house reefs for easy snorkeling or shore diving.
+Include considerations like proximity to dive sites, price range, and any relevant features (luxury, eco-friendly, etc.).
+
+Section: Attractions & Activities:
+Suggest non-diving activities such as snorkeling, hiking, cultural sites, and adventure tourism.
+Provide details on location, seasonal timing, and what makes each attraction unique.
+
+Section: Food & Dining:
+List notable restaurants and food experiences in the region.
+Prioritize vegetarian-friendly and seafood options.
+Include location details, any seasonal considerations, and price range insights.
+
+Section: Top Dive Sites & Best Seasons
+List the most notable dive sites, describing:
+Why Go: Unique highlights (e.g., specific marine life, reef formations, wrecks).
+Depth Range: Minimum and maximum dive depths.
+Best Season: The optimal time to dive there and any seasonality factors.
+
+Section: Diving Seasonality & Safety Considerations
+Currents & Safety: Identify the months with the strongest currents and their impact on diving (e.g., best for drift diving vs. easier conditions).
+Sea Conditions: Explain when seas are calm vs. rough (important for boat dives and liveaboards).
+Visibility: Outline the months with the best and worst visibility.
+Water Temperature: Provide a breakdown of temperature ranges by season and recommendations for wetsuit thickness.
+Weather & Rainfall: Describe the wet and dry seasons, including how they impact diving conditions.
+High vs. Low Season using above info to capture the essence of all of the above info for each
+
+Section: Highlights section for Specific Marine Life or other attractions
+Highlight key species (e.g., whale sharks, hammerhead sharks, manta rays) or attractions (wrecks, etc) and the best months to see them.
+Why those months are ideal (e.g., plankton blooms, migration patterns, dive conditions).
+List best locations for each species.
+Best via - how is best to dive this, i.e. by liveaboard, shore dive, boat (day trip) and any context for that
+
+Section: Diving Conditions by Month (Table)
+Include a structured table with (units: imperial and fahrenheit) summarizing:
+Month
+Air & Sea Temperature (F)
+Diving Season (Dry/Wet/Transition)
+Diving Highlights
+Rainfall & Rainy Days
+Other Notes (e.g., best for liveaboards, peak marine life activity)
+[OPTIONAL] Additional Notes
+Any region-specific diving considerations, local regulations, or special tips.
+Existing Information
+
+Here is any relevant information from previous notes or documents that should be incorporated into the new guide:
+===begin existing info===
+## **Orientation**
+
+Belize is a **hybrid dive destination**, offering both **resort-based diving** and **liveaboard trips**. The country is home to the **Mesoamerican Barrier Reef**, the second-largest barrier reef in the world, as well as **atoll diving**, making it a top-tier dive destination for both beginner and advanced divers.
+
+For **first-time visitors**, a **stay on Ambergris Caye or Caye Caulker** offers the best mix of convenience, good diving, and island life. **Serious divers** should consider **Turneffe Atoll resorts or a liveaboard** for the most diverse and exciting underwater experiences. If **whale sharks or remote reefs** are a priority, **Placencia and Southern Belize** are the best choices.
+
+### **Choosing Between Resort-Based & Liveaboard Diving**
+- **Resort-Based Diving:** Ideal for those who want easy access to day dives and a mix of land-based activities, including Mayan ruins and jungle adventures.
+- **Liveaboard Diving:** Best for divers who want to explore **Turneffe Atoll, Lighthouse Reef, and the famous Blue Hole** without the travel time associated with day trips.
+
+### **Key Diving Regions in Belize**
+Belize’s diving can be broken down into three primary regions: **The Northern Cayes, Central Atolls, and Southern Belize.**
+
+### **1. Northern Cayes (Ambergris Caye & Caye Caulker)**
+- **Why Go?** The most developed and accessible part of Belize for diving, offering easy boat access to the barrier reef and Hol Chan Marine Reserve.
+- **Best For:** Beginner divers, those looking for a mix of diving and nightlife, and travelers who want a lively island atmosphere.
+- **Notable Spots:** Hol Chan Marine Reserve (sharks, turtles, groupers), The Aquarium (colorful coral and reef fish), Tackle Box Canyon (canyons and swim-throughs).
+- **Drawbacks:** Most dive sites are within the barrier reef and don’t offer the **big pelagic action** found at the outer atolls.
+
+### **2. Central Atolls (Turneffe Atoll, Lighthouse Reef & The Blue Hole)**
+- **Why Go?** This region offers **the best diving in Belize**, including deep walls, shark encounters, and world-famous dive sites like the Great Blue Hole.
+- **Best For:** Advanced divers, liveaboard travelers, and those looking for **remote, pristine diving**.
+- **Notable Spots:**
+  - **Great Blue Hole** (100m+ deep sinkhole, stalactites, occasional reef sharks).
+  - **Half Moon Caye Wall** (colorful coral, eagle rays, reef sharks).
+  - **The Elbow (Turneffe Atoll)** (strong currents, big pelagic species, schooling jacks, and snappers).
+- **Drawbacks:** Requires a **long boat ride** from the mainland (2-3 hours) unless staying at a dive lodge on Turneffe Atoll.
+
+### **3. Southern Belize (Placencia & Glovers Reef Atoll)**
+- **Why Go?** Less crowded, featuring **whale sharks (seasonal), pristine reefs, and remote cayes**.
+- **Best For:** Divers seeking **off-the-beaten-path locations**, whale shark encounters (March–June), and **day trips to Glovers Reef or Turneffe**.
+- **Notable Spots:**
+  - **Gladden Spit (Placencia)** – Seasonal whale shark encounters.
+  - **South Water Caye Marine Reserve** – Excellent coral formations, abundant marine life.
+  - **Glover’s Reef Atoll** – Remote and pristine, great for drift diving.
+- **Drawbacks:** Fewer dive shops, requiring longer boat rides to some of the best sites.
+
+### **Liveaboard Routes in Belize**
+Liveaboards in Belize generally follow two main itineraries:
+1. **The Atolls Expedition:** Covers **Turneffe Atoll, Lighthouse Reef, and Half Moon Caye**, offering **wall diving, pelagic encounters, and the Blue Hole**.
+2. **Southern Barrier Reef & Glovers Reef:** Focuses on **more secluded reef systems**, **whale shark encounters (March–June), and fewer boats at the dive sites**.
+
+### **Where to Stay for Resort-Based Diving**
+If you prefer a land-based diving experience, here are the best **stay locations**:
+- **Ambergris Caye:**
+  - Ramon’s Village Resort (full-service dive resort with beachfront accommodations).
+  - Victoria House Resort & Spa (luxury resort with diving access to Hol Chan Marine Reserve).
+- **Turneffe Atoll:**
+  - Turneffe Island Resort (upscale all-inclusive dive lodge on a private island).
+  - Blackbird Caye Resort (dive-focused retreat with direct access to Turneffe sites).
+- **Placencia:**
+  - Turtle Inn (luxury eco-resort with diving excursions to Gladden Spit and South Water Caye).
+  - Belize Ocean Club (mid-range option with access to whale shark tours).
+===end existing info===
+
+Please write the first section in canvas and then stop.

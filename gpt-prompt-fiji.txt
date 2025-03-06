@@ -1,0 +1,99 @@
+Prompt: Create a detailed diving guide for Fiji, formatted similarly to the "Maldives Diving Seasonality & Conditions" and "Raja Ampat Diving Guide" and "Bali Diving Guide" documents. The purpose is to provide a clear, structured overview of the region’s diving conditions, seasonality, and top dive sites. The document should include the following sections:
+
+TLDR Summary
+A one-liner indicating the best month to dive and the least desirable month, eg "## TLDR: March ideal, avoid July"
+
+Section: Where to Stay:
+Provide a mix of accommodations, including major hotel chains (specifically Marriott and Hyatt if available), dive resorts, and unique boutique stays.
+Highlight options with house reefs for easy snorkeling or shore diving.
+Include considerations like proximity to dive sites, price range, and any relevant features (luxury, eco-friendly, etc.).
+
+Section: Attractions & Activities:
+Suggest non-diving activities such as snorkeling, hiking, cultural sites, and adventure tourism.
+Provide details on location, seasonal timing, and what makes each attraction unique.
+
+Section: Food & Dining:
+List notable restaurants and food experiences in the region.
+Prioritize vegetarian-friendly and seafood options.
+Include location details, any seasonal considerations, and price range insights.
+
+Section: Top Dive Sites & Best Seasons
+List the most notable dive sites, describing:
+Why Go: Unique highlights (e.g., specific marine life, reef formations, wrecks).
+Depth Range: Minimum and maximum dive depths.
+Best Season: The optimal time to dive there and any seasonality factors.
+
+Section: Diving Seasonality & Safety Considerations
+Currents & Safety: Identify the months with the strongest currents and their impact on diving (e.g., best for drift diving vs. easier conditions).
+Sea Conditions: Explain when seas are calm vs. rough (important for boat dives and liveaboards).
+Visibility: Outline the months with the best and worst visibility.
+Water Temperature: Provide a breakdown of temperature ranges by season and recommendations for wetsuit thickness.
+Weather & Rainfall: Describe the wet and dry seasons, including how they impact diving conditions.
+High vs. Low Season using above info to capture the essence of all of the above info for each
+
+Section: Highlights section for Specific Marine Life or other attractions
+Highlight key species (e.g., whale sharks, hammerhead sharks, manta rays) or attractions (wrecks, etc) and the best months to see them.
+Why those months are ideal (e.g., plankton blooms, migration patterns, dive conditions).
+List best locations for each species.
+Best via - how is best to dive this, i.e. by liveaboard, shore dive, boat (day trip) and any context for that
+
+Section: Diving Conditions by Month (Table)
+Include a structured table summarizing:
+Month
+Air & Sea Temperature
+Diving Season (Dry/Wet/Transition)
+Diving Highlights
+Rainfall & Rainy Days
+Other Notes (e.g., best for liveaboards, peak marine life activity)
+[OPTIONAL] Additional Notes
+Any region-specific diving considerations, local regulations, or special tips.
+Existing Information
+
+Here is any relevant information from previous notes or documents that should be incorporated into the new guide:
+
+Peak Seasons for Tourism and Diving
+* TLDR: May
+* Tourism Peak Season: June to September, when the weather is drier, cooler, and less humid. December to early January is also busy due to holiday travel.
+* Diving Peak Season: July to October, offering the best visibility (25-40m), clear waters, and abundant marine life, including shark diving in Beqa Lagoon and manta rays in Kadavu and the Yasawa Islands.
+
+Low Season and Less Recommended Times for Diving
+* Tourism Low Season: November to April, the wet season, which brings higher humidity, increased rainfall, and occasional cyclones.
+* Diving Low Season: January to March has reduced visibility due to increased rain runoff, though marine life remains active.
+
+Top Diving Destinations
+1. Great White Wall (Somosomo Strait, Taveuni) – Famous for its breathtaking soft coral walls.
+2. Beqa Lagoon – Known for shark diving and diverse marine species.
+3. Rainbow Reef (Taveuni) – Features stunning soft corals and excellent drift diving.
+4. Namena Marine Reserve (Savusavu) – Pristine reefs, diverse marine ecosystems.
+5. Bligh Water & Koro Sea – Ideal for advanced divers, featuring pelagic encounters and dramatic underwater landscapes.
+
+Non-Diving Activities and Attractions
+Fiji offers more than just diving. Here are some other highlights:
+* Sabeto Hot Springs and Mud Pools – A fun and relaxing experience.
+* Garden of the Sleeping Giant – A beautiful orchid garden near Nadi.
+* Sigatoka Sand Dunes – A national park with stunning dune landscapes.
+* Cloud 9 – A floating platform with a bar and pizzeria in the Mamanuca Islands.
+* Levuka – A UNESCO World Heritage site with colonial history.
+
+
+Monthly Climate and Diving Conditions in Fiji
+Month	Avg. High	Avg. Sea	Season	Diving Highlights	Avg. Rainfall (inches)	Avg. Rainy Days	Avg. Sunshine Hours/Day	Other Notes
+January	86	83	Low	Warm waters; potential for coral spawning; increased plankton attracts larger species	13.9	14	6.5	Peak of wet season; higher rainfall; risk of cyclones; reduced visibility due to runoff
+February	87	84	Low	Similar to January; opportunities to see larger pelagics like manta rays	11.5	15	6.5	Continuation of wet season; highest chance of cyclones; warmest sea temperatures
+March	86	84	Low	Warm waters; marine life active; end of coral spawning period	13.8	16	5.5	Wet season persists; rainfall begins to decrease towards month's end
+April	84	83	Shoulder	Transition to drier conditions; improving visibility; diverse marine life	12.1	10	5.5	End of wet season; decreasing rainfall; pleasant diving conditions
+May	82	82	Peak	Excellent visibility; vibrant coral reefs; reef fish congregations	8.4	5	6.5	Start of dry season; cooler temperatures; ideal for diving
+June	80	80	Peak	Clear waters; increased shark sightings; ideal for underwater photography	6.3	4	6.0	Dry season; minimal rainfall; comfortable conditions
+July	79	79	Peak	Best visibility; frequent shark encounters; healthy coral formations	5.2	3	5.5	Coolest month; dry season continues; optimal diving conditions
+August	78	78	Peak	Similar to July; excellent for observing diverse marine species	5.6	4	5.5	Dry season; festivals and cultural events; popular travel period
+September	79	78	Peak	Warm waters; abundant marine life; ideal for drift diving	6.8	5	5.0	End of dry season; stable weather; high underwater visibility
+October	81	79	Shoulder	Transition to warmer waters; potential for coral spawning; active marine ecosystems	9.5	6	5.5	Beginning of wet season; increasing temperatures; occasional showers
+November	83	81	Low	Warmer seas; opportunities to witness coral spawning; diverse marine life	9.4	9	6.0	Wet season onset; higher humidity; increased rainfall
+December	85	82	Low	Warm waters; active marine life; chance to see juvenile reef species	13.2	12	6.5	Peak of wet season; festive season; higher tourist numbers
+Key Takeaways
+* Fiji is a year-round diving destination, but the dry season (May-October) provides the best visibility and conditions.
+* The wet season (November-April) has warmer waters and active marine life but comes with higher rainfall, reduced visibility, and cyclone risks.
+* Shark diving is excellent year-round, particularly in Beqa Lagoon.
+* Manta rays are most commonly seen from May to October.
+* For optimal conditions with fewer crowds, consider April, May, or October.
+By planning according to these insights, divers can maximize their experience while enjoying Fiji’s natural beauty and marine life.

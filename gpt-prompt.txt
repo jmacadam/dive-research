@@ -1,0 +1,116 @@
+Prompt: Create a detailed diving guide for [LOCATION], formatted similarly to the "Maldives Diving Seasonality & Conditions" and "Raja Ampat Diving Guide" and "Bali Diving Guide" documents. The purpose is to provide a clear, structured overview of the region’s diving conditions, seasonality, and top dive sites. The document should include the following sections, but I will ask you to create them one at a time starting with 
+Top Dive Sites & Best Seasons
+After that we will continue in the following order:
+Diving Seasonality & Safety Considerations. 
+Highlights section for Specific Marine Life or other attractions
+Diving Conditions by Month (Table)
+then we can do all of these sections at once:
+Where to Stay, Attractions & Activities, and Food & Dining
+and lastly considering all context, provide the TLDR
+
+Here is what each section should contain, but reference project files for existing examples:
+
+TLDR Summary
+A one-liner indicating the best month to dive and the least desirable month, eg "## TLDR: March ideal, avoid July"
+
+Section: Orientation
+===begin section prompt
+Objective:
+Create an Orientation section that clearly breaks down key areas travelers should consider based on their interests (e.g., diving, luxury, culture). The structure should be adapted based on the nature of the destination—whether it is primarily a liveaboard location, a land-based destination, or a mix of both.
+
+General Structure:
+
+Start with an Overview:
+Provide a quick summary of how the destination is structured.
+Example: “Liveaboard itineraries in Raja Ampat are typically categorized into North, Central, and South, each offering distinct dive environments.”
+If both land and liveaboard options exist, outline common regions people stay in and the most frequent liveaboard routes.
+If it's only land-based, highlight regional differences and types of stays (dive lodges, resorts, budget accommodations).
+If it's primarily liveaboard-only, break it down into common routes and what each region offers.
+Break the destination into logical sections based on:
+
+Geography: (e.g., North, South, Central, or key islands)
+Diving & Travel Logistics: (e.g., best for liveaboards vs. land-based diving)
+Traveler Type Suitability: (luxury vs. budget, divers vs. general tourists)
+For each area, include:
+
+Why Go: The main appeal of this area.
+Best For: What type of travelers will enjoy it most.
+Notable Spots: Key attractions, dive sites, wildlife, or experiences.
+Drawbacks: Any cons or considerations (e.g., crowds, cost, remoteness).
+Destination-Specific Adjustments:
+
+Liveaboard-Only Destinations (e.g., Raja Ampat, some parts of the Maldives)
+Focus on common liveaboard routes and what each covers.
+Indicate trip length recommendations (e.g., "A 7-night trip covers Central Raja Ampat, while 9+ nights explore both Central & South").
+Address unique region-specific characteristics (e.g., “The South is better for macro lovers, while the Central region offers the best big fish action.”).
+Land-Based Diving & Multi-Region Destinations (e.g., Bali, Fiji)
+Highlight different stay options and where to base yourself for diving.
+Recommend best accommodations in each key area.
+Mention dive travel logistics (e.g., “If diving Nusa Penida, staying in Sanur is best.”).
+Hybrid Destinations (e.g., Maldives, Great Barrier Reef)
+Cover both resort-based diving and liveaboard itineraries.
+Indicate which regions are better for land-based stays vs. which are only accessible by boat.
+Recommend specific atolls or islands for different types of divers.
+Formatting Notes:
+
+Use bullet points for clarity.
+Ensure each region is easy to scan, balancing high-level takeaways with enough detail for planning.
+Example Adjustments Based on Destination:
+Maldives: Break into key atolls for resort-based stays vs. liveaboard routes.
+Bali: Cover land-based regional stays and dive safari strategies.
+Raja Ampat: Focus on liveaboard-only routes (North, Central, South).
+Great Barrier Reef: Cover liveaboard itineraries and land-based options (Cairns vs. islands).
+Fiji: Mix of land-based island stays (Taveuni, Beqa, Mamanucas) and liveaboard trips (Bligh Water).
+===end section prompt
+
+Section: Where to Stay:
+Provide a mix of accommodations, including major hotel chains (specifically Marriott and Hyatt if available), dive resorts, and unique boutique stays.
+Highlight options with house reefs for easy snorkeling or shore diving.
+Include considerations like proximity to dive sites, price range, and any relevant features (luxury, eco-friendly, etc.).
+
+Section: Attractions & Activities:
+Suggest non-diving activities such as snorkeling, hiking, cultural sites, and adventure tourism.
+Provide details on location, seasonal timing, and what makes each attraction unique.
+
+Section: Food & Dining:
+List notable restaurants and food experiences in the region.
+Prioritize vegetarian-friendly and seafood options.
+Include location details, any seasonal considerations, and price range insights.
+
+Section: Top Dive Sites & Best Seasons
+List the most notable dive sites, describing:
+Why Go: Unique highlights (e.g., specific marine life, reef formations, wrecks).
+Depth Range: Minimum and maximum dive depths.
+Best Season: The optimal time to dive there and any seasonality factors.
+
+Section: Diving Seasonality & Safety Considerations
+Currents & Safety: Identify the months with the strongest currents and their impact on diving (e.g., best for drift diving vs. easier conditions).
+Sea Conditions: Explain when seas are calm vs. rough (important for boat dives and liveaboards).
+Visibility: Outline the months with the best and worst visibility.
+Water Temperature: Provide a breakdown of temperature ranges by season and recommendations for wetsuit thickness.
+Weather & Rainfall: Describe the wet and dry seasons, including how they impact diving conditions.
+High vs. Low Season using above info to capture the essence of all of the above info for each
+
+Section: Highlights section for Specific Marine Life or other attractions
+Highlight key species (e.g., whale sharks, hammerhead sharks, manta rays) or attractions (wrecks, etc) and the best months to see them.
+Why those months are ideal (e.g., plankton blooms, migration patterns, dive conditions).
+List best locations for each species.
+Best via - how is best to dive this, i.e. by liveaboard, shore dive, boat (day trip) and any context for that
+
+Section: Diving Conditions by Month (Table)
+Include a structured table with (units: imperial and fahrenheit) summarizing:
+Month
+Air & Sea Temperature (F)
+Diving Season (Dry/Wet/Transition)
+Diving Highlights
+Rainfall & Rainy Days
+Other Notes (e.g., best for liveaboards, peak marine life activity)
+[OPTIONAL] Additional Notes
+Any region-specific diving considerations, local regulations, or special tips.
+Existing Information
+
+Here is any relevant information from previous notes or documents that should be incorporated into the new guide:
+
+[EXISTING INFO]
+--
+Please write the first section in canvas and then stop.

@@ -1,0 +1,113 @@
+Prompt: Create a detailed diving guide for Bali, formatted similarly to the "Maldives Diving Seasonality & Conditions" and "Raja Ampat Diving Guide" documents. The purpose is to provide a clear, structured overview of the region’s diving conditions, seasonality, and top dive sites. The document should include the following sections:
+
+TLDR Summary
+A one-liner indicating the best month to dive and the least desirable month, eg "## TLDR: March ideal, avoid July"
+
+Section: Top Dive Sites & Best Seasons
+List the most notable dive sites, describing:
+Why Go: Unique highlights (e.g., specific marine life, reef formations, wrecks).
+Depth Range: Minimum and maximum dive depths.
+Best Season: The optimal time to dive there and any seasonality factors.
+
+Section: Diving Seasonality & Safety Considerations
+Currents & Safety: Identify the months with the strongest currents and their impact on diving (e.g., best for drift diving vs. easier conditions).
+Sea Conditions: Explain when seas are calm vs. rough (important for boat dives and liveaboards).
+Visibility: Outline the months with the best and worst visibility.
+Water Temperature: Provide a breakdown of temperature ranges by season and recommendations for wetsuit thickness.
+Weather & Rainfall: Describe the wet and dry seasons, including how they impact diving conditions.
+High vs. Low Season using above info to capture the essence of all of the above info for each
+
+Section: Highlights section for Specific Marine Life or other attractions
+Highlight key species (e.g., whale sharks, hammerhead sharks, manta rays) or attractions (wrecks, etc) and the best months to see them.
+Why those months are ideal (e.g., plankton blooms, migration patterns, dive conditions).
+List best locations for each species.
+Best via - how is best to dive this, i.e. by liveaboard, shore dive, boat (day trip) and any context for that
+
+Section: Diving Conditions by Month (Table)
+Include a structured table summarizing:
+Month
+Air & Sea Temperature
+Diving Season (Dry/Wet/Transition)
+Diving Highlights
+Rainfall & Rainy Days
+Other Notes (e.g., best for liveaboards, peak marine life activity)
+[OPTIONAL] Additional Notes
+Any region-specific diving considerations, local regulations, or special tips.
+Existing Information
+
+Here is any relevant information from previous notes or documents that should be incorporated into the new guide:
+
+TLDR: May
+
+Best Time for Diving in Bali
+* Peak Diving Season: April to November (dry season) offers the best conditions, with good visibility, calm seas, and lower rainfall. OTHER QUOTES:
+    * "The dry season in Bali runs from April to October however the best diving season is from May to November. The best time to see Manta Rays is April and May. The best time or season to see the famous Mola Mola, Oceanic sunfish is from August to October."
+    * May to October is usually considered to be the best time to dive in Bali, but the conditions are still great in the shoulder months of late March, April, November and early December. However, during these months, it is good to be aware that showers are generally a daily occurrence.
+    * For a first scuba diving trip to Bali, September would be the best choice you could make to have a chance to meet Mola-Mola in Nusa Penida.
+    * If you want to avoid the crowds, crazy traffic and higher prices on accommodation, try not to travel to Bali in July, August, Easter, Christmas, Chinese New Year and Golden Week holidays. Prices on accommodation can be 50% cheaper and the traffic on the roads more manageable outside these periods. (excellent resource including climate https://worldadventuredivers.com/best-time-dive-bali/)
+    * In Bali, the visibility varies with the amount of rainfall; it can drop to 10 m (*) in the rainy season, and can reach 40 m (*****) in the heart of the dry season.
+* Off-Peak (Rainy Season): December to February still allows diving, but visibility can be affected, and some sites may be less accessible.
+* Ideal Month for Your Trip: October is a strong option for a balance of good conditions and fewer crowds.
+
+Best Diving Locations in Bali
+* Tulamben: Shore diving with the famous USAT Liberty Shipwreck. Great marine life and easy access.
+* Nusa Penida: Known for manta rays at Manta Point and mola mola (seasonal). Can have strong currents.
+* Menjangan Island: Less crowded, with pristine coral walls and excellent visibility.
+* Amed: A mix of macro life, coral reefs, and wall diving. More relaxed diving experience.
+* Sanur: A gateway for trips to Nusa Penida and Lembongan but not a top diving destination itself.
+
+Diving During the Rainy Season
+* Recommended Sites: Tulamben, Amed, and Menjangan Island are more sheltered and accessible year-round.
+* Less Ideal Sites: Nusa Penida and Lembongan can have rougher seas and stronger currents, making conditions more challenging.
+
+Diving Infrastructure & Operators
+* Nusa Dua Beach: A common departure point for dive trips but not a major dive site itself.
+* Other Dive Hubs: Tulamben, Amed, and Sanur also serve as primary dive departure locations.
+* Dives in Low Season: Operators adjust schedules based on weather, with possible last-minute changes.
+
+Accommodation Options in Bali
+Marriott Hotels for Rainy Season & Diving
+* The Westin Resort Nusa Dua: Close to dive operators and offers indoor activities.
+* The St. Regis Bali Resort: A luxurious option with access to diving day trips.
+
+Dive-Focused Resorts
+* Liberty Dive Resort (Tulamben): Affordable, diver-friendly, near the USAT Liberty wreck. (~$50-$100 per night)
+* Villa Markisa (Tulamben): High-end resort focused on personalized diving experiences. (~$150-$300 per night)
+* Alam Batu Beach Bungalow Resort: Great for house reef diving, mid-range pricing. (~$100-$200 per night)
+
+Non-Diving Resorts with House Reefs
+* Mimpi Resort Menjangan: Near Menjangan Island, excellent for snorkeling.
+* Taman Sari Bali Resort & Spa (Pemuteran): Has a house reef, great for non-divers.
+* The Lovina (Lovina): Offers snorkeling access directly from the beach.
+
+Hyatt Hotels
+* Hyatt Regency Bali (Sanur): No house reef, but close to dive operators.
+
+Boutique Hotel Options
+* The Kayon Jungle Resort (Ubud): Jungle views, peaceful atmosphere. (~$200-$400 per night)
+* The Slow (Canggu): Stylish, modern, artistic retreat. (~$150-$300 per night)
+* Tanah Gajah, a Resort by Hadiprana (Ubud): Traditional Balinese aesthetics. (~$250-$500 per night)
+* Bambu Indah (Ubud): Eco-luxury bamboo houses. (~$200-$400 per night)
+* COMO Uma Canggu: Beachfront, good for surfing and wellness. (~$200-$450 per night)
+
+Other Travel Considerations
+* House Reefs: These allow snorkeling and shore diving directly from the resort, making diving more accessible without needing boat trips.
+* Marriott & Hyatt Properties: No properties have direct house reefs, but many offer easy access to dive trips.
+* Tourism Crowds: The busiest months are July, August, and December. For fewer crowds, May, June, and September are better alternatives.
+
+
+
+Climate & Diving Seasonality Table
+Month	Avg. High Air Temp (°F)	Avg. Sea Temp (°F)	Diving Season	Diving Highlights	Avg. Rainfall (inches)	Avg. Rainy Days	Avg. Sunshine Hours/Day	Other Notes
+January	86	82	Low	Warm waters, reduced visibility, increased currents	13.0	17	6.3	Start of rainy season
+February	86	82	Low	Similar to January; occasional clear days	11.2	16	6.5	Mid-rainy season
+March	87	82	Medium	Transitioning to dry season, improving conditions	8.5	14	7.0	Less rain, more sun
+April	87	83	High	Start of peak diving season, clear waters	3.9	9	8.0	Best diving conditions begin
+May	87	83	High	Excellent visibility, minimal rain	3.0	7	8.5	Ideal for diving
+June	86	82	High	Dry season, calm waters	2.3	5	9.0	Best for diving and tourism
+July	85	81	High	Prime diving season, peak tourist month	2.0	4	9.2	Busy season
+August	85	81	High	Similar to July, great conditions	1.9	3	9.5	High demand month
+September	86	82	High	Fewer crowds, excellent diving	2.4	5	9.0	Shoulder season
+October	86	83	High	Great marine life, warm waters	3.5	8	8.5	End of peak season
+November	85	83	Medium	Transition to wet season	5.7	12	7.0	Increasing rain
+December	85	82	Low	Warm waters, increased marine life	13.2	12	6.5	Peak of wet season, festive crowds

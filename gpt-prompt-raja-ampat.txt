@@ -1,0 +1,86 @@
+Prompt: Create a detailed diving guide for Raja Ampat, formatted similarly to the "Maldives Diving Seasonality & Conditions" document. The purpose is to provide a clear, structured overview of the region’s diving conditions, seasonality, and top dive sites. The document should include the following sections:
+
+TLDR Summary
+A one-liner indicating the best month to dive and the least desirable month, eg "## TLDR: March ideal, avoid July"
+
+Section: Top Dive Sites & Best Seasons
+List the most notable dive sites, describing:
+Why Go: Unique highlights (e.g., specific marine life, reef formations, wrecks).
+Depth Range: Minimum and maximum dive depths.
+Best Season: The optimal time to dive there and any seasonality factors.
+
+Section: Diving Seasonality & Safety Considerations
+Currents & Safety: Identify the months with the strongest currents and their impact on diving (e.g., best for drift diving vs. easier conditions).
+Sea Conditions: Explain when seas are calm vs. rough (important for boat dives and liveaboards).
+Visibility: Outline the months with the best and worst visibility.
+Water Temperature: Provide a breakdown of temperature ranges by season and recommendations for wetsuit thickness.
+Weather & Rainfall: Describe the wet and dry seasons, including how they impact diving conditions.
+High vs. Low Season using above info to capture the essence of all of the above info for each
+
+Section: Highlights section for Specific Marine Life or other attractions
+Highlight key species (e.g., whale sharks, hammerhead sharks, manta rays) or attractions (wrecks, etc) and the best months to see them.
+Mention why those months are ideal (e.g., plankton blooms, migration patterns).
+List best locations for each species.
+
+Section: Diving Conditions by Month (Table)
+Include a structured table summarizing:
+Month
+Air & Sea Temperature
+Diving Season (Dry/Wet/Transition)
+Diving Highlights
+Rainfall & Rainy Days
+Other Notes (e.g., best for liveaboards, peak marine life activity)
+[OPTIONAL] Additional Notes
+Any region-specific diving considerations, local regulations, or special tips.
+Existing Information
+
+Here is any relevant information from previous notes or documents that should be incorporated into the new guide:
+
+Climate Overview
+* Average Temperature: 80-90°F (27-32°C) year-round
+* Sea Temperature: 82-86°F (28-30°C)
+* Humidity: High throughout the year, often above 80%
+* Rainfall: Seasonal variations with heavier rains from May to October but no true monsoon season
+* Winds: Stronger trade winds occur mid-year, influencing sea conditions
+
+High vs. Low Season
+* High Season (October - April): Best diving conditions, with peak season from December to March. Waters are calmer, visibility is optimal, and marine life activity (including manta rays) peaks. Tourist numbers are highest, especially around Christmas and New Year.
+* Low Season (May - September): More rain and rougher seas due to southeast trade winds. Some liveaboards take a break, but diving is still possible. Fewer tourists mean quieter dive sites.
+Diving Seasonality & Marine Highlights
+Raja Ampat offers spectacular diving all year, but certain months offer specific highlights:
+* Manta Season: October - April, with peak sightings from December to March.
+* Coral Spawning: Typically around October-November, leading to increased plankton levels and attracting larger marine life.
+* Sharks & Big Fish: Present year-round, but clearer waters from October to April improve encounters.
+* Macro Diving: Possible all year, but best when plankton blooms are lower.
+* Best Visibility: November - March (can reach 20-30m/65-100ft); lower in plankton-heavy months.
+
+Seasonal Dive Conditions & Safety
+Beyond visibility, dive conditions in Raja Ampat vary with currents, waves, and accessibility:
+* Currents: Stronger during October - April, especially in areas like Dampier Strait and Misool. Advanced divers can enjoy thrilling drift dives, while beginners may prefer more sheltered locations.
+* Surface Conditions: May - September brings stronger winds and rougher seas, making some exposed sites harder to reach.
+* Liveaboard Routes: Many liveaboards avoid open ocean crossings mid-year due to rough seas, focusing on more protected areas like Misool. Some may shut down operations in July - August.
+* Safest Conditions: November - March offers the best balance of calm waters and clear visibility.
+* Most Challenging Conditions: June - August, when strong winds and surface conditions can make diving more difficult and some itineraries less reliable.
+
+Raja Ampat Climate & Diving Seasonality Table
+Month	Avg. High (°F)	Avg. Sea (°F)	Season	Diving Highlights	Avg. Rainfall (inches)	Avg. Rainy Days	Avg. Sunshine Hours/Day	Other Notes
+January	86	83	High	Peak manta season; warm waters; great visibility	13.9	14	6.5	Peak of wet season; occasional storms
+February	86	83	High	Excellent visibility; mantas active	11.5	13	7.0	Wet but stable diving conditions
+March	86	84	High	Mantas still active; best for large pelagics	10.2	12	7.5	Transition to drier conditions
+April	87	85	High	Last good month for mantas; coral spawning begins	9.8	11	7.8	End of peak season; fewer divers
+May	87	85	Low	Macro diving improves; increasing plankton	11.3	13	6.0	Start of windier conditions; stronger currents
+June	86	84	Low	Less crowded dive sites; potential for big fish	13.0	14	5.5	Stronger winds; rougher seas; some routes limited
+July	85	83	Low	Remote dive sites less accessible; still diverse marine life	14.5	15	5.0	Windiest month; some liveaboards stop running
+August	85	83	Low	Good macro diving; reefs remain healthy	13.8	14	5.2	Similar to July; rougher sea conditions
+September	86	84	Low	Start of transition to high season; improving visibility	12.5	13	5.8	Winds ease; liveaboards resume
+October	86	84	High	Coral spawning; increased fish activity	11.0	12	6.5	Start of best diving season; some strong currents
+November	87	85	High	Peak coral spawning; mantas return	10.2	11	7.2	Excellent visibility begins; best balance of conditions
+December	87	85	High	Peak season for mantas; great visibility	12.0	13	6.8	Busiest tourist month; occasional storms
+Summary
+* Best Diving Months: October - April (high season) for best conditions & big marine life.
+* Low Season Diving: May - September, still good but with rougher conditions and fewer options.
+* Liveaboards & Accessibility: Some routes shut down during the low season due to winds.
+* Peak Tourist Months: December - March; highest demand for accommodations and tours.
+* Safest Diving Conditions: November - March with calm waters and good visibility.
+* Most Challenging Conditions: June - August due to strong winds and waves affecting dive sites and liveaboard schedules.
+While Raja Ampat is diveable all year, your ideal time depends on whether you prioritize top marine life encounters, optimal conditions, or fewer crowds. 
