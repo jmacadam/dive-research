@@ -201,7 +201,7 @@ Belize is a top-tier destination for divers, adventure seekers, and food lovers 
 - **Why Go?** One of the most famous dive sites in the world, a massive underwater sinkhole with eerie stalactites and deepwater species like reef and bull sharks.
 - **Depth Range:** 40-130m (130-400ft)
 - **Best Season:** **April to June & November to January** (best visibility and calmer waters)
-- **Notes:** Advanced divers only due to depth. The main draw is the surreal atmosphere rather than marine life density.
+- **Notes:** Advanced divers only due to depth. The main draw is the surreal atmosphere rather than marine life density. _This is a 2.5h boat trip from Ambergris Caye generally leaving ~6a and returning ~5p_
 
 ### **2. Half Moon Caye Wall (Lighthouse Reef Atoll)**
 - **Why Go?** Spectacular drop-off with pristine coral formations, large schools of fish, and frequent shark encounters.
