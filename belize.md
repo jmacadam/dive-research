@@ -58,6 +58,10 @@ Liveaboards in Belize generally follow two main itineraries:
 1. **The Atolls Expedition:** Covers **Turneffe Atoll, Lighthouse Reef, and Half Moon Caye**, offering **wall diving, pelagic encounters, and the Blue Hole**.
 2. **Southern Barrier Reef & Glovers Reef:** Focuses on **more secluded reef systems**, **whale shark encounters (March–June), and fewer boats at the dive sites**.
 
+## **Where to Stay, Attractions & Activities, and Food & Dining in Belize**
+
+### **Where to Stay**
+
 ### **Where to Stay for Resort-Based Diving**
 If you prefer a land-based diving experience, here are the best **stay locations**:
 - **Ambergris Caye:**
@@ -69,11 +73,6 @@ If you prefer a land-based diving experience, here are the best **stay locations
 - **Placencia:**
   - Turtle Inn (luxury eco-resort with diving excursions to Gladden Spit and South Water Caye).
   - Belize Ocean Club (mid-range option with access to whale shark tours).
-
-## **Where to Stay, Attractions & Activities, and Food & Dining in Belize**
-
-### **Where to Stay**
-Belize offers a mix of accommodations, from luxury resorts to dive lodges and budget stays. Many resorts have house reefs for easy snorkeling and diving access.
 
 #### **Luxury Resorts with Dive Access**
 1. **Turtle Inn (Placencia) – Luxury Eco-Resort**
