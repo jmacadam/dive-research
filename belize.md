@@ -1,4 +1,4 @@
-## **TLDR: April – June ideal, avoid September – October**
+## **TLDR: March, April ideal, avoid September – October**
 
 Divers looking for accessibility and variety should stay in **Ambergris Caye**, while those wanting **pristine, high-energy sites** should opt for **Turneffe Atoll or a liveaboard**. **Placencia** is best for divers targeting **whale sharks**. The best overall diving conditions are in **April – June and November – January**, while **September – October should be avoided due to hurricanes**.
 
